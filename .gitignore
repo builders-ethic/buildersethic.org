@@ -1,0 +1,14 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Node modules (if using JS tooling or theming)
+node_modules/
+
+# macOS + general system files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.swp
