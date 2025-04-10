@@ -1,3 +1,35 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://buildersethic.org/"
+languageCode = "en-us"
+title = "The Builder’s Ethic"
+theme = "PaperMod"
+
+[params]
+  author = "A. Builder"
+  description = "Essays on what it means to build something—with care, intention, and responsibility. A quiet philosophy for those who build under constraint, and choose to do so with integrity."
+  hideAuthor = true
+  ShowReadingTime = false
+  ShowWordCount = false
+  ShowShareButtons = false
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = false
+  disableScrollToTop = true
+  defaultTheme = "dark"
+  disableThemeToggle = true
+  hideCopyright = false
+  ShowThemeCredits = false
+  DateFormat = ""
+  essaysSection = "essays"
+
+[params.assets]
+  customCSS = ["css/extended/theme-vars-override.css"]
+
+[menu]
+  [[menu.main]]
+  name = "Fragments"
+  url = "/fragments"
+  weight = 1
+
+  [[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 2
