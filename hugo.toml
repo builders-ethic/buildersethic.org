@@ -19,6 +19,9 @@ theme = "PaperMod"
   ShowThemeCredits = false
   DateFormat = ""
   essaysSection = "essays"
+  logo = "logo_light.png"
+  logoDark = "logo_dark.png"
+
 
 [params.assets]
   customCSS = ["css/extended/theme-vars-override.css"]
