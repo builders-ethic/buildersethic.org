@@ -36,10 +36,9 @@
     <div class="logo">
       {{- $label_text := site.Params.label.text | default site.Title }}
       <a href="{{ "" | absLangURL }}" accesskey="h" title="{{ $label_text }} (Alt + H)">
-        <picture>
-          <source srcset="{{ "logo_dark.png" | relURL }}" media="(prefers-color-scheme: dark)">
-          <img src="{{ "logo_light.png" | relURL }}" alt="Logo" style="height: 30px; margin-right: 10px;" />
-        </picture>
+			<img src="{{ "logo_light.png" | relURL }}" alt="Logo Light" class="logo-light" style="height: 30px; margin-right: 10px;">
+			<img src="{{ "logo_dark.png" | relURL }}" alt="Logo Dark" class="logo-dark" style="height: 30px; margin-right: 10px; display: none;">
+
         {{- $label_text }}
       </a>
 
