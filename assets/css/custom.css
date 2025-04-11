@@ -1,0 +1,15 @@
+/* Default to light */
+.logo-light {
+  display: inline;
+}
+.logo-dark {
+  display: none;
+}
+
+/* When dark mode is active via JS class */
+body.dark .logo-dark {
+  display: inline;
+}
+body.dark .logo-light {
+  display: none;
+}

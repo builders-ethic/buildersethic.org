@@ -24,7 +24,7 @@ theme = "PaperMod"
 
 
 [params.assets]
-  customCSS = ["css/extended/theme-vars-override.css"]
+  customCSS = ["css/custom.css"]
 
 [menu]
   [[menu.main]]
