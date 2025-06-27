@@ -39,7 +39,7 @@ Legacy isn’t built through speed, but through care sustained over time.
 ### **The Builder’s Apprenticeship**  
 You don’t begin by leading.  
 You begin by learning—through contact, humility, and time.  
-[Coming soon...]
+[Read →](/essays/builders-apprenticeship)
 
 ---
 

@@ -2,32 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://buildersethic.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://buildersethic.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://buildersethic.org/essays/build-for-the-long-arc/</loc>
+    <loc>http://localhost:1313/essays/build-for-the-long-arc/</loc>
   </url><url>
-    <loc>https://buildersethic.org/essays/core-claim/</loc>
+    <loc>http://localhost:1313/essays/core-claim/</loc>
   </url><url>
-    <loc>https://buildersethic.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://buildersethic.org/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://buildersethic.org/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://buildersethic.org/essays/</loc>
+    <loc>http://localhost:1313/essays/</loc>
   </url><url>
-    <loc>https://buildersethic.org/fragments/</loc>
+    <loc>http://localhost:1313/fragments/</loc>
   </url><url>
-    <loc>https://buildersethic.org/fragments/</loc>
+    <loc>http://localhost:1313/fragments/</loc>
   </url><url>
-    <loc>https://buildersethic.org/tags/</loc>
+    <loc>http://localhost:1313/fragments/</loc>
   </url><url>
-    <loc>https://buildersethic.org/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://buildersethic.org/essays/rewards-vs-needs/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://buildersethic.org/essays/what-you-build-builds-you/</loc>
+    <loc>http://localhost:1313/builders-ethic/</loc>
+  </url><url>
+    <loc>http://localhost:1313/essays/builders-apprenticeship/</loc>
+  </url><url>
+    <loc>http://localhost:1313/essays/builders-apprenticeship/</loc>
+  </url><url>
+    <loc>http://localhost:1313/essays/rewards-vs-needs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/essays/what-you-build-builds-you/</loc>
   </url>
 </urlset>

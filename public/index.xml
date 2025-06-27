@@ -2,58 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Builder’s Ethic</title>
-    <link>https://buildersethic.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on The Builder’s Ethic</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <atom:link href="https://buildersethic.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://buildersethic.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://buildersethic.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>The story behind The Builder’s Ethic — a personal philosophy of thoughtful construction, civic responsibility, and the long view.</description>
     </item>
     <item>
       <title>Build for the Long Arc</title>
-      <link>https://buildersethic.org/essays/build-for-the-long-arc/</link>
+      <link>http://localhost:1313/essays/build-for-the-long-arc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://buildersethic.org/essays/build-for-the-long-arc/</guid>
+      <guid>http://localhost:1313/essays/build-for-the-long-arc/</guid>
       <description>Why the most meaningful work takes time—and how to shape things that may one day shape others.</description>
     </item>
     <item>
       <title>Building Is a Quietly Radical Act</title>
-      <link>https://buildersethic.org/essays/core-claim/</link>
+      <link>http://localhost:1313/essays/core-claim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://buildersethic.org/essays/core-claim/</guid>
+      <guid>http://localhost:1313/essays/core-claim/</guid>
       <description>Building is a civic act. It’s not about shouting louder—it’s about taking responsibility.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://buildersethic.org/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://buildersethic.org/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>Reach out to discuss ideas, collaborations, or reflections on what it means to build with integrity.</description>
     </item>
     <item>
       <title>Fragments</title>
-      <link>https://buildersethic.org/fragments/</link>
+      <link>http://localhost:1313/fragments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://buildersethic.org/fragments/</guid>
+      <guid>http://localhost:1313/fragments/</guid>
       <description>An evolving notebook of reflections, aphorisms, and unfinished thoughts — fragments in service of a larger ethic.</description>
     </item>
     <item>
-      <title>What the World Rewards Isn’t Always What the World Needs</title>
-      <link>https://buildersethic.org/essays/rewards-vs-needs/</link>
+      <title>Fragments</title>
+      <link>http://localhost:1313/fragments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://buildersethic.org/essays/rewards-vs-needs/</guid>
+      <guid>http://localhost:1313/fragments/</guid>
+      <description>&lt;p&gt;&lt;em&gt;These are fragments worth carrying.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Do the good that’s in front of you, even if it feels small.”&lt;/em&gt;&lt;br&gt;
+—Sharon Salzberg&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Tell me, what is it you plan to do with your one wild and precious life?”&lt;/em&gt;&lt;br&gt;
+—Mary Oliver (&amp;ldquo;The Summer Day&amp;rdquo;)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;“Most people overestimate what they can do in one year and underestimate what they can do in ten years.”&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bill Gates&lt;/li&gt;
+&lt;/ul&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;The Law of Serendipity: Lady Luck favors the one who tries.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Builder’s Ethic</title>
+      <link>http://localhost:1313/builders-ethic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/builders-ethic/</guid>
+      <description>&lt;h1 id=&#34;the-builders-ethic-v01&#34;&gt;The Builder’s Ethic (v0.1)&lt;/h1&gt;
+&lt;h3 id=&#34;a-living-draft&#34;&gt;&lt;em&gt;a living draft&lt;/em&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;We build not to control the future, but to serve it.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We preserve what may one day matter, even if it doesn’t now.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;We value optionality, restraint, and continuity—not because they are efficient, but because they are faithful.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;What we build should outlast us—but also remain alive enough to change.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For a structure to endure, it must adapt.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;To preserve something, you may have to contain it.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Builders Apprenticeship</title>
+      <link>http://localhost:1313/essays/builders-apprenticeship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/builders-apprenticeship/</guid>
+      <description>A reflection on the Builder’s Ethic as a lived commitment — not to theory, but to tested, real-world creation.</description>
+    </item>
+    <item>
+      <title>The Builders Apprenticeship</title>
+      <link>http://localhost:1313/essays/builders-apprenticeship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/builders-apprenticeship/</guid>
+      <description>A reflection on the Builder’s Ethic as a lived commitment — not to theory, but to tested, real-world creation.</description>
+    </item>
+    <item>
+      <title>What the World Rewards Isn’t Always What the World Needs</title>
+      <link>http://localhost:1313/essays/rewards-vs-needs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/essays/rewards-vs-needs/</guid>
       <description>On recognizing the gap between incentives and importance—and choosing responsibility over applause.</description>
     </item>
     <item>
       <title>What You Build Builds You</title>
-      <link>https://buildersethic.org/essays/what-you-build-builds-you/</link>
+      <link>http://localhost:1313/essays/what-you-build-builds-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://buildersethic.org/essays/what-you-build-builds-you/</guid>
+      <guid>http://localhost:1313/essays/what-you-build-builds-you/</guid>
       <description>How the act of building shapes not just the world, but the builder. On discipline, clarity, and transformation through contact.</description>
     </item>
   </channel>
