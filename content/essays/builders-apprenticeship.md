@@ -6,7 +6,7 @@ series: The Builder’s Ethic
 series_number: 5
 draft: false
 ---
-
+---
 In an era that celebrates instant expertise and passive consumption, the idea of an apprenticeship might seem quaint or even obsolete. But beneath the noise of credentialism and algorithmic shortcuts, the Builder’s Ethic demands something deeper: an apprenticeship in the truest sense — a deliberate commitment to learning through doing. 
 
 The Builder’s Apprenticeship is not a job title or a formal program. It’s a commitment to getting things done in the real world — to turning ideas into structures, systems, or products that make a tangible impact and create value. It’s about moving from treating ideas as beautiful mental objects to testing them in the crucible of reality. After all, **an idea untested is merely a belief**. The feedback you get from execution — the failures, the pivots, the unexpected lessons — refines both your craft and your thinking.
